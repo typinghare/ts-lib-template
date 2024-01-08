@@ -12,5 +12,9 @@ This is a template for starting up a TypeScript library. Here are what this temp
 
 ### Jetbrains (IntelliJ IDEA, Webstorm, etc)
 
-* (`Languages & Frameworks` => `JavaScript` => `Prettier`) Select `Automatic Prettier configuration`
-* (`Languages & Frameworks` => `JavaScript` => `CodeQuality Tool` => `ESLint`) Select `Automatic ESLint configuration`
+* (`Languages & Frameworks` => `JavaScript` => `Prettier`) Check `Automatic Prettier configuration`.
+* (`Languages & Frameworks` => `JavaScript` => `CodeQuality Tool` => `ESLint`) Check `Automatic ESLint. configuration`
+
+### VSCode
+
+* Ask ChatGPT for help.
