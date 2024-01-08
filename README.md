@@ -7,3 +7,10 @@ This is a template for starting up a TypeScript library. Here are what this temp
 * [Prettier](https://prettier.io/docs/en/) - A popular formatter for many common types of files.
 * [Jest](https://jestjs.io) - A useful unit test tool.
 * [MIT LICENSE](https://opensource.org/license/mit/) - This license indicates that this library is totally open source.
+
+## Set Up IDEs
+
+### Jetbrains (IntelliJ IDEA, Webstorm, etc)
+
+* (`Languages & Frameworks` => `JavaScript` => `Prettier`) Select `Automatic Prettier configuration`
+* (`Languages & Frameworks` => `JavaScript` => `CodeQuality Tool` => `ESLint`) Select `Automatic ESLint configuration`
